@@ -126,7 +126,7 @@ streamlit run app.py
 
 Streamlit will provide a local URL in the terminal. Open that URL in your browser to explore the dashboard.
 
-## 🚀 Live Demo
+## Live Demo
 
 **Explore the deployed dashboard here:**
 
