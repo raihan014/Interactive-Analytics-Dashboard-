@@ -126,6 +126,15 @@ streamlit run app.py
 
 Streamlit will provide a local URL in the terminal. Open that URL in your browser to explore the dashboard.
 
+## 🚀 Live Demo
+
+**Explore the deployed dashboard here:**
+
+[Online Retail Sales Dashboard](https://retail-analytics-task3.streamlit.app)
+
+The dashboard allows users to explore online retail sales data through interactive filters, key performance indicators (KPIs), and visualizations.
+
+
 ## Author
 
 **Marfi Hasan Raihan**
