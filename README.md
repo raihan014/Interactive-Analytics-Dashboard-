@@ -64,10 +64,6 @@ The project distinguishes between:
 
 These counts may differ because product identifiers and descriptions are different fields.
 
-## Project Structure
-
-The raw and processed dataset files and the virtual environment are excluded from Git through `.gitignore`. Follow the setup instructions below to make the data available locally before running the dashboard.
-
 ## Installation and Setup
 
 ### Prerequisites
